@@ -404,7 +404,6 @@ forms:
               - different
             type: from_text
   scholarship_form:
-    required_slots:
       financial_situation:
           - intent: []
             not_intent: []
